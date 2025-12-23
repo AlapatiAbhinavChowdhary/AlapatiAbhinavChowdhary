@@ -145,9 +145,6 @@ Deeply interested in **AI, ML, Cloud Computing, and Data**, with a strong focus 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhialapati?theme=dark&font=Karma)
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlapatiAbhinavChowdhary&theme=radical&margin-w=6)
-
 ---
 
 ### ✍️ Random Dev Quote
