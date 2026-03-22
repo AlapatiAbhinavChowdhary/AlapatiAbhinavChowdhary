@@ -44,23 +44,6 @@ me = AbhinavChowdhary()
 me.say_hi()
 ```
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔬 Project | 📋 Description | 🛠 Stack | 📈 Result |
-|:----------|:--------------|:---------|:---------|
-| 🌿 **Medicinal Plant Identifier** | CNN app classifying 78 plant species from images | MobileNetV2, Flask, React Vite | 85%+ accuracy |
-| 🧠 **EduScan** | Slow learner detection with remedial recommendations | XGBoost, React, REST API | **92% accuracy** |
-| 📰 **Smart News Analyzer** | Topic modeling + fake news detection pipeline | LDA, Gensim, NLP, pyLDAvis | End-to-end NLP |
-| 🌍 **Seismic Signal Clustering** | Earthquake signal analysis — unsupervised ML | DBSCAN, t-SNE, USGS dataset | Research-grade |
-| 🔐 **Intrusion Detection System** | Network traffic anomaly detection | Python, ML classifiers | Internship project |
-
-</div>
-
----
 
 ## 💻 Tech Stack
 
