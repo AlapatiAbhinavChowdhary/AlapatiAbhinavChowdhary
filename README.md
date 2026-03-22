@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alapati%20Abhinav%20Chowdhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20in%20Making%20%7C%20Builder%20%7C%20Curious%20Mind&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alapati%20Abhinav%20Chowdhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+LPU;Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%28AI+%26+ML%29+%40+LPU;Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer;Cloud+Computing+Explorer;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -147,14 +149,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlapatiAbhinavChowdhary&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -166,7 +160,7 @@ me.say_hi()
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/abhialapati?theme=dark&font=Fira+Code&ext=heatmap&border=1&radius=10" />
+  <img src="https://leetcard.jacoblin.cool/abhialapati?theme=dark&font=Fira+Code&border=1&radius=10" />
 </div>
 
 ---
@@ -194,7 +188,7 @@ me.say_hi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
 <div align="center">
   <b>Built with curiosity, caffeine, and a little bit of chaos ☕⚡</b><br/>
