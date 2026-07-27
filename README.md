@@ -8,9 +8,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alapati-abhinav-chowdhary)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20%7C%20Fresher-22C55E?style=for-the-badge&logo=briefcase&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://alapatiabhinavchowdhary.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavalapati)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavalapati.aac@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio.vercel.app](https://alapatiabhinavchowdhary.vercel.app/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhialapati/)
 
 <br/>
 
@@ -42,6 +47,20 @@ me = AbhinavChowdhary()
 me.say_hi()
 ```
 
+---
+
+## 📚 Currently Learning / Focus Areas
+
+<div align="center">
+
+![LangGraph](https://img.shields.io/badge/LangGraph.js-1C3C3C?style=for-the-badge)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![German](https://img.shields.io/badge/German_Language-000000?style=for-the-badge&logo=googletranslate&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-2496ED?style=for-the-badge)
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -117,10 +136,10 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlapatiAbhinavChowdhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlapatiAbhinavChowdhary&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180" />
-</div>
+</div> -->
 
 <br/>
 
@@ -128,7 +147,13 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlapatiAbhinavChowdhary&theme=tokyonight&border_radius=10" height="180" />
 </div>
 
----
+<br/>
+
+<!-- <div align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=AlapatiAbhinavChowdhary&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</div> -->
+
+
 
 ## 📈 Activity Graph
 
@@ -142,6 +167,24 @@ me.say_hi()
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/abhialapati?theme=dark&font=Fira+Code&border=1&radius=10" />
+</div>
+
+---
+
+
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-Certified-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle AI Professional](https://img.shields.io/badge/Oracle_AI-Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Network Fundamentals](https://img.shields.io/badge/Network_Communication-Fundamentals-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+📁 **[View all certificates →](https://drive.google.com/drive/folders/1z70ueO8bD2HDMDr-iac1guEzRBT2QWGF?usp=drive_link)**
+
 </div>
 
 ---
@@ -169,9 +212,23 @@ me.say_hi()
 
 ---
 
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://alapatiabhinavchowdhary.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavalapati)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavalapati.aac@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhialapati/)
+
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
 <div align="center">
   <b>Built with curiosity, caffeine, and a little bit of chaos ☕⚡</b><br/>
   <sub>⭐ Star some repos if you find them useful — it means a lot!</sub>
 </div>
+
